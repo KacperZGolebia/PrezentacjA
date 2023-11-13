@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map /https://kacperzgolebia.github.io/PrezentacjA/
+- Leaflet Map https://kacperzgolebia.github.io/PrezentacjA/
 - Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vR6vPMI3SfXOyE6xbBJyi3LDVLmm4WagCdDcCCky7iChKScgWxTZroyAVGFX35tp1WKmDJ9clkXOVJU/pubhtml
 
 ## Create Your Own
